@@ -1,2 +1,2 @@
 # demobad Demo
-badge
+badge!
